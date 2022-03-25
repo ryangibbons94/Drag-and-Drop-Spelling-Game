@@ -12,7 +12,7 @@ function checkWinner() {
         document.querySelector("#correct").innerText = "1"
     }
 }
-
+ 
 
 
 // target elements with the "draggable" class
